@@ -2,7 +2,7 @@
 
 <div>
 <img  height="166em" src="https://github-readme-stats.vercel.app/api?username=devgabi1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgab1&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img align="right" height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgab&layout=compact&langs_count=16&theme=midnight-purple"/>
   </div>
   <br>
   
@@ -21,16 +21,14 @@
 
 
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: gabikauane65@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/kauane8406/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://instagram.com/winterfallw?igshid=NTc4MTIwNjQ2YQ==">
       <img width="25" src="instagram.png">
     </a>
 </div>
