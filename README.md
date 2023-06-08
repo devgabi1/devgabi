@@ -24,16 +24,15 @@
 
 
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: gabikauane65@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-      <img width="30" src="e-mail">
+    <a href = "mailto: gabikauane65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </a>
-    <a href = "https://www.linkedin.com/in/kauanesilva8406/">
-      <img width="25" src="linkedin">
+    <a href = "https://www.linkedin.com/in/kauanesilva8406/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </a>
     </a>
-    <a href = "https://instagram.com/winterfallw?igshid=NTc4MTIwNjQ2YQ==">
-      <img width="25" src="instagram">
+    <a href = "https://instagram.com/winterfallw?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target+"_blank"></a>
     </a>
+    <a href = "https://wa.me/42984065131" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target+"_blank"></a>
+      
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
