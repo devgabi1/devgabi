@@ -1,4 +1,7 @@
 ### Olá!!! Eu sou a Kauane, seja bem vindo! ❤️
+- 🚀 Em busca da primeira oportunidade
+- ☀️ Estudando mais sobre C## e JavaScript
+- 🤩 Pronouns: she/her
 
 <div>
 <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=devgabi1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -21,7 +24,7 @@
 
 
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: gabikauane65@gmail.com">
+    <a href = "mailto: gabikauane65@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
       <img width="30" src="e-mail">
     </a>
     <a href = "https://www.linkedin.com/in/kauanesilva8406/">
