@@ -22,14 +22,14 @@
 
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: gabikauane65@gmail.com">
-      <text width="30" src="e-mail">
+      <img width="30" src="e-mail">
     </a>
     <a href = "https://www.linkedin.com/in/kauanesilva8406/">
-      <text width="25" src="linkedin">
+      <img width="25" src="linkedin">
     </a>
     </a>
     <a href = "https://instagram.com/winterfallw?igshid=NTc4MTIwNjQ2YQ==">
-      <text width="25" src="instagram">
+      <img width="25" src="instagram">
     </a>
 </div>
 
